@@ -1,5 +1,15 @@
 ### Hi there 👋
-<h2 align="center">Github stats :bar_chart:</h2>
+<p align="center"><img src="https://profile-counter.glitch.me/{JoseArmas10}/count.svg" alt="JoseArmas10 :: Visitor's Count" /></p>
+
+<h4 align="center">Top langs :tongue:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseArmas10&langs_count=10&theme=tokyonight&layout=compact" alt="JoseArmas10 :: Top Langs" /></p>
+
+<h4 align="center">Profile stats :musical_keyboard:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=JoseArmas10&show_icons=true&theme=synthwave" alt="JoseArmas10 :: Profile Stats" /></p>
+
+<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 <!--
 **JoseArmas10/JoseArmas10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
