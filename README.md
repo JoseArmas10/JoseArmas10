@@ -44,8 +44,6 @@
     <img src="https://raw.githubusercontent.com/JoseArmas10/JoseArmas10/media/github-contribution-grid-snake.svg" 
          alt"Check out my commit history!" />
   </a>
-</p>
-</details>
 
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E820A0&height=120&section=footer"/>
