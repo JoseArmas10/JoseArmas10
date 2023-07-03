@@ -1,22 +1,22 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=transparent&color=E820A0&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5acbe9&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E820A0&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+JASMIN+POMASONCCO;I'M+SOFTWARE+ENGINEERING+STUDENT)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=5acbe9&background=FF8DEA00&center=true&vCenter=true&width=1000&lines=HI%2C+I'M+JOSE+ARMAS;I'M+A+SOFTWARE+ENGINEER+STUDENT)](https://git.io/typing-svg)
 
 
-- 🌱 ***I’m currently learning Oracle and Flutter***
-- 💬 ***Ask me about Full-Stack***
-- ⚡ ***I like to play videogames and program with music***
+-  ***I’m currently student of UPC***
+-  ***Quick learner***
+-  ***I like to play videogames and program with music***
 
  
-<h3 align="left"> 🌸 Top langs:</h3>
+<h3 align="left">  Top langs:</h3>
 <div align="center">
   <a href="https://github.com/jasminpomasoncco">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jasminpomasoncco&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasminpomasoncco&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseArmas10&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseArmas10&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
   
-<h3 align="left"> 🌸 Languages and Tools:</h3>
+<h3 align="left">  Languages and Tools:</h3>
 <br>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
@@ -31,10 +31,9 @@
 
 </p>
 
-<h3 align="left"> 🌸 Social networks:</h3>
-  <a href="https://instagram.com/jasmin_2020_11" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:jasminpomasoncco@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jasmin-gianella-pomasoncco-oropeza-154102218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="https://twitter.com/Jasmingia22" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%235444B7?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
+<h3 align="left">  Social networks:</h3>
+  <a href="https://www.instagram.com/jose_cma_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:jose.armas10711@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://twitter.com/fn_deyy_" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%235444B7?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E820A0&height=120&section=footer"/>
