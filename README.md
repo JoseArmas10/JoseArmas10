@@ -1,11 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5acbe9&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=5acbe9&background=FF8DEA00&center=true&vCenter=true&width=1000&lines=HI%2C+I'M+JOSE+ARMAS;I'M+A+SOFTWARE+ENGINEER+STUDENT)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=5acbe9&background=FF8DEA00&center=true&vCenter=true&width=1000&lines=HI%2C+I'M+JOSE+ARMAS;I'M+A+SOFTWARE+ENGINEERING+STUDENT)](https://git.io/typing-svg)
 
 
--  ***I’m currently student of UPC***
--  ***Quick learner***
--  ***I like to play videogames and program with music***
+-  📚 ***I’m currently a student of UPC***
+-  🤔 ***Quick learner***
+-  🏆 ***I like to play soccer, videogames and program with music***
 
  
 <h3 align="left">  Top langs:</h3>
