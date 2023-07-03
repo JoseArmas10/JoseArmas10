@@ -1,7 +1,7 @@
 ### Hi there 👋
 <p align="center"><img src="https://profile-counter.glitch.me/{JoseArmas10}/count.svg" alt="JoseArmas10 :: Visitor's Count" /></p>
 
-<h4 align="center">Top langs :tongue:</h4>
+<h4 align="left">Top langs :tongue:</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseArmas10&langs_count=10&theme=tokyonight&layout=compact" alt="JoseArmas10 :: Top Langs" /></p>
 
