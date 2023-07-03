@@ -38,7 +38,7 @@
 </p>
 
 
-
+<div align="center">
   <a href="https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake.svg#gh-dark-mode-only" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake-dark.svg" 
        alt"Check out my commit history!" />
@@ -48,6 +48,6 @@
     <img src="https://raw.githubusercontent.com/JoseArmas10/JoseArmas10/media/github-contribution-grid-snake.svg" 
          alt"Check out my commit history!" />
   </a>
-
+</div>
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer"/>
