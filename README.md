@@ -6,15 +6,18 @@
 -  🤔 ***Quick learner***
 -  🏆 ***I like to play soccer, videogames and program with music***
 
-<h3 align="left">  Top langs:</h3>
+
+<h3 align="center"> TOP LANGS:</h3>
 <div align="center">
   <a href="https://github.com/JoseArmas10">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseArmas10&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
 
+
   
-<h3 align="left"> 🔥 Languages and Tools:</h3>
+<h3 align="left"> 🔥 LANGUAGES AND TOOLS:</h3>
 <br>
+
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -27,7 +30,7 @@
 
 </p>
 
-<h3 align="left">  Social networks:</h3>
+<h3 align="left">  SOCIAL NETWORKS:</h3>
   <a href="https://www.instagram.com/jose_cma_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:jose.armas10711@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://twitter.com/fn_deyy_" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%235444B7?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
