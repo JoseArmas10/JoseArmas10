@@ -49,5 +49,11 @@
          alt"Check out my commit history!" />
   </a>
 </div>
+
+ <!-- <div align="center">
+   <h2>:notes: Now playing 
+
+<a href="https://open.spotify.com/user/6x3L58GJyV7h9kZij5SC4B"><img src="https://spotify-now-playing-JoseArmas10.vercel.app/api/spotify" alt="Now playing on Spotify" ></a>
+  </div>-->
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer"/>
