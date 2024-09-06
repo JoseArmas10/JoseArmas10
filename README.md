@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=FFFFFF&background=FF8DEA00&center=true&vCenter=true&width=1000&lines=HI%2C+I'M+JOSE+ARMAS;I'M+A+SOFTWARE+ENGINEERING+STUDENT)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=000000&background=FF8DEA00&center=true&vCenter=true&width=1000&lines=HI%2C+I'M+JOSE+ARMAS;I'M+A+SOFTWARE+ENGINEERING+STUDENT)](https://git.io/typing-svg)
 
 -  📚 ***I’m currently a student of UPC***
 -  🤔 ***Quick learner***
