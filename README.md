@@ -8,7 +8,7 @@
 
 <h3 align="center">  SOCIAL NETWORKS:</h3>
 <div align="center">
-  <a href="https://www.instagram.com/jose_cma_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/josearmas_22/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/jose-armas-60748a237/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:jose.armas10711@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://twitter.com/fn_deyy_" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%235444B7?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
