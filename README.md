@@ -7,7 +7,6 @@
 - 🏆 ***I like to play soccer, videogames and program with music***
 
 <h3 align="center"> 🚀 PORTFOLIO </h3>
-
 <div align="center">
   <a href="https://josearmasdev.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/🌐 Visit%20my%20Portfolio-ff0000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
@@ -21,7 +20,7 @@
   <a href="mailto:jose.armas10711@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://twitter.com/fn_deyy_" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%235444B7?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter / X"></a> 
 </div>
-    
+
 <h3 align="center"> TOP LANGS:</h3>
 <div align="center">
   <a href="https://github.com/JoseArmas10">
@@ -31,8 +30,7 @@
 
 <h3 align="left"> 🔥 LANGUAGES AND TOOLS:</h3>
 <br>
-
-<p align="left"> 
+<p align="left">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
@@ -46,24 +44,15 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40"/></a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a> 
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
 </p>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoseArmas10/JoseArmas10/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoseArmas10/JoseArmas10/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/JoseArmas10/JoseArmas10/output/github-contribution-grid-snake.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoseArmas10/JoseArmas10/output/github-contribution-grid-snake-dark.svg?v=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoseArmas10/JoseArmas10/output/github-contribution-grid-snake.svg?v=1">
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/JoseArmas10/JoseArmas10/output/github-contribution-grid-snake.svg?v=1"/>
   </picture>
 </div>
-
-<!--
-<div align="center">
-  <h2>:notes: Now playing</h2>
-  <a href="https://open.spotify.com/user/6x3L58GJyV7h9kZij5SC4B">
-    <img src="https://spotify-now-playing-JoseArmas10.vercel.app/api/spotify" alt="Now playing on Spotify">
-  </a>
-</div>
--->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer"/>
